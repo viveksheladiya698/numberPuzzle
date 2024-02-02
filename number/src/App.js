@@ -17,6 +17,8 @@ function App() {
 
 
   useEffect(() => {
+
+    // add new state
     data();
 
   }, []);
